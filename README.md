@@ -29,9 +29,11 @@ The application will be deployed at the entrance of the River Basin War Room & G
 
 ### Steps
 
+- **Run our application using the given following commands:-**
+
 1. **Clone the repository**:
     ```sh
-    git clone [https://github.com/Sohith-reddy/NMCG_Chatbot.git]
+    git clone [https://github.com/Sohith-reddy/NMCG_BOT.git]
     cd NMCG
     ```
 
@@ -40,7 +42,7 @@ The application will be deployed at the entrance of the River Basin War Room & G
     pip install -r requirements.txt
     ```
 
-3. **Run the application**:
+3. **Run the application u**:
     ```sh
     python app.py
     ```
